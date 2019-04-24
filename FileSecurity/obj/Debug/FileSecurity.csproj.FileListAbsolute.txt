@@ -1,0 +1,10 @@
+C:\Users\Tirth\source\repos\FileSecurity\FileSecurity\bin\Debug\FileSecurity.exe.config
+C:\Users\Tirth\source\repos\FileSecurity\FileSecurity\bin\Debug\FileSecurity.exe
+C:\Users\Tirth\source\repos\FileSecurity\FileSecurity\bin\Debug\FileSecurity.pdb
+C:\Users\Tirth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.Form1.resources
+C:\Users\Tirth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.Properties.Resources.resources
+C:\Users\Tirth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.csproj.GenerateResource.cache
+C:\Users\Tirth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.csproj.CoreCompileInputs.cache
+C:\Users\Tirth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.exe
+C:\Users\Tirth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.pdb
+C:\Users\Tirth\source\repos\FileSecurity\FileSecurity\obj\Debug\FileSecurity.csprojAssemblyReference.cache
